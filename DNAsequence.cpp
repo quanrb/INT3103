@@ -6,7 +6,7 @@ using namespace std;
 const string TARGET_SEQUENCE = "ATGCTCGACTGCAGTTACCATGGATC";
 
 // Hằng tham số
-const int POPULATION_SIZE = 50;
+const int POPULATION_SIZE = 100;
 const double MUTATION_RATE = 0.01;
 const double CROSSOVER_RATE = 0.8;
 const int NUM_GENERATIONS = 1000;
